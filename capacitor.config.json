@@ -1,0 +1,6 @@
+{
+  "appId": "com.arabictechnologies.recipes",
+  "appName": "ionic-angular-course-3",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
